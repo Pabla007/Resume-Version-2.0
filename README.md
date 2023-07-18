@@ -1,2 +1,2 @@
 # Resume 
- This repo contains the Resume with the latest info till date.
+ This repo contains the resume with the latest info to date with the latest skills and certifications.
